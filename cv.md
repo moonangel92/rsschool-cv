@@ -30,5 +30,11 @@ No experience in programming
   1. HTML basic at [Codecademy](https://www.codecademy.com/)
   2. CSS basic at [Skillbox](https://skillbox.ru
 )
+----
+### *Languages*
+1. Russian - proficiency
+2. English - intermediate
+3. Turkish - intermediate
 ------
+
 
