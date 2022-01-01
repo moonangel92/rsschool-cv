@@ -19,3 +19,16 @@ function multiply(a, b){
 }
 ```
 ***
+### *Experience*
+No experience in programming
+
+---------
+### *Education*
+- College of Finance and Economics
+- Bishkek Academy of Finance and Economics
+- Course:
+  1. HTML basic at [Codecademy](https://www.codecademy.com/)
+  2. CSS basic at [Skillbox](https://skillbox.ru
+)
+------
+
